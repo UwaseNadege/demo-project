@@ -28,5 +28,23 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/uwase/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/3.4.2/spring-boot-autoconfigure-3.4.2.jar" sourcepath="C:/Users/uwase/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/3.4.2/spring-boot-autoconfigure-3.4.2-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.boot"/>
+			<attribute name="maven.artifactId" value="spring-boot-autoconfigure"/>
+			<attribute name="maven.version" value="3.4.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/uwase/.m2/repository/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2.jar" sourcepath="C:/Users/uwase/.m2/repository/org/springframework/security/spring-security-core/6.4.2/spring-security-core-6.4.2-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.security"/>
+			<attribute name="maven.artifactId" value="spring-security-core"/>
+			<attribute name="maven.version" value="6.4.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
